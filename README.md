@@ -102,7 +102,7 @@ multidisease-tracker/
 │   │   ├── requirements.txt
 │   │   ├── models/                 # Pre-trained models
 │   │   │   ├── brain_model.h5
-│   │   │   └── model.h5
+│   │   │   
 │   │   └── uploads/                # Uploaded images for analysis
 │   │
 │   ├── Lungs/                       # Lung disease detection
@@ -153,7 +153,7 @@ multidisease-tracker/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/multidisease-tracker.git
+   git clone https://github.com/ragini117/multidisease-tracker.git
    cd multidisease-tracker
    ```
 
@@ -260,16 +260,29 @@ npm run lint
 
 ## 📸 Screenshots
 
-(Add screenshots here showing):
 - Dashboard overview
-- Brain disease detection interface
-- Lung disease detection results
-- Chatbot interface
-- Health news feed
-- Insurance information page
-- Responsive mobile view
+  <img width="1920" height="1020" alt="Screenshot 2026-05-18 142057" src="https://github.com/user-attachments/assets/46b0ab19-8205-4c3d-85e4-7ce035e8afe7" />
 
-_Note: Add 4-6 high-quality screenshots showcasing main features_
+- Brain disease detection interface
+  <img width="1920" height="1020" alt="Screenshot 2026-03-11 124623" src="https://github.com/user-attachments/assets/a8d1f663-49c7-4ea0-8876-edffa3d18199" />
+  
+
+- Lung disease detection results
+  <img width="1920" height="1020" alt="Screenshot 2026-05-09 194406" src="https://github.com/user-attachments/assets/a9185511-1f99-408d-9381-8f6e69472a11" />
+
+- Chatbot interface
+  <img width="1920" height="1020" alt="Screenshot 2026-03-11 125635" src="https://github.com/user-attachments/assets/6e55e72b-5067-4aad-9c49-39a78341cc0f" />
+  
+
+- Health news feed
+  <img width="1920" height="1020" alt="Screenshot 2026-03-11 130549" src="https://github.com/user-attachments/assets/144f509d-3468-4e1a-b12e-33417ec21cc3" />
+  
+
+- Insurance information page
+  <img width="1920" height="1020" alt="Screenshot 2026-03-11 125450" src="https://github.com/user-attachments/assets/8e550a25-ed7a-4edb-9973-b8bcca342a52" />
+
+- Health Tips
+- <img width="1417" height="966" alt="image" src="https://github.com/user-attachments/assets/1b70f3eb-ec20-4de7-ad53-a6d2481c907e" />
 
 ## 🔮 Future Improvements
 
@@ -302,27 +315,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Developed for AI/ML Healthcare Portfolio**
-
-- **Purpose**: Showcase AI/ML expertise in healthcare domain
-- **Fresher Developer**: Designed to demonstrate full-stack capabilities
-- **Portfolio Project**: Highlights React, Python, ML, and DevOps skills
-
-## 🙏 Acknowledgments
-
-- **shadcn/ui** - Beautiful React components
-- **TensorFlow/Keras** - Deep learning framework
-- **LangChain** - LLM framework
-- **Radix UI** - Accessible UI primitives
-- **Framer Motion** - Animation library
+**Ragini Singh**  
+B.E Artificial Intelligence & Machine Learning  
+Final Year Project: MultiDisease Tracker
 
 ## 📞 Contact & Support
 
 For questions or support:
 - Open an issue on GitHub
-- Email: your.email@example.com
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-
----
+- Email: rraginisingh117@gmail.com
+- LinkedIn: [Your Profile](https://linkedin.com/in/ragini117/)
 
 **⭐ If you find this project helpful, please give it a star on GitHub!**
