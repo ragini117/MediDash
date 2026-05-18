@@ -5,7 +5,7 @@
 ### Windows
 ```bash
 # Clone and setup (requires Node.js and Python installed)
-git clone https://github.com/yourusername/multidisease-tracker.git
+git clone https://github.com/ragini117/multidisease-tracker.git
 cd multidisease-tracker
 
 # Install frontend dependencies
@@ -20,7 +20,7 @@ npm run build
 ### macOS / Linux
 ```bash
 # Same as Windows
-git clone https://github.com/yourusername/multidisease-tracker.git
+git clone https://github.com/ragini117/multidisease-tracker.git
 cd multidisease-tracker
 npm install
 npm run build
@@ -222,11 +222,5 @@ See `.env.example` for complete list.
 ## 🆘 Need Help?
 
 1. Check README.md for detailed documentation
-2. Review CONTRIBUTING.md for contribution guidelines
-3. Open an issue on GitHub
-4. Check existing issues for solutions
 
----
 
-**Last Updated**: May 2026
-**Status**: Production Ready
