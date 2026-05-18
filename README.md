@@ -11,12 +11,11 @@ This project combines a modern React frontend with Python-based ML backends to d
 - **🧠 Disease Detection**: 
   - Brain disease detection from medical images
   - Lung disease detection (X-ray analysis)
-  - Multi-disease detection using deep learning models
   
 - **📊 Dashboard**: 
-  - Personalized health dashboard
-  - Disease statistics and analytics
-  - Symptom tracking and results
+  - Quick access to all healthcare modules
+  - Health tips for wellness and lifestyle
+  - Clean and responsive user interface
   
 - **🤖 AI Chatbot**: 
   - RAG-based (Retrieval Augmented Generation) chatbot
@@ -32,11 +31,6 @@ This project combines a modern React frontend with Python-based ML backends to d
   - Insurance policy recommendations
   - Health coverage guidance
   - Hospital information database
-  
-- **🎯 Symptom Analysis**: 
-  - Symptom-based disease prediction
-  - Health guidance cards
-  - Personalized recommendations
   
 - **🌙 Dark/Light Mode**: 
   - Responsive UI with theme switching
